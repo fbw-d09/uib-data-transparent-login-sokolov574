@@ -9,9 +9,6 @@ body
     background-repeat: no-repeat;
     color: white;
     backdrop-filter: blur(5px);
-    background: linear-gradient();
-
-   
 }
 
 .form
@@ -22,6 +19,7 @@ body
     width: 40rem;
     height: 40rem;
     margin: 0 auto;
+    background: linear-gradient(black);
 }
 
 
